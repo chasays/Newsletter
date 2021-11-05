@@ -7,6 +7,7 @@
 
 **十月**
 
+- 第 9 期：[投资约定](newsletter/2021/2021-10-30-invest.md)
 - 第 8 期：[职场需要什么技能](newsletter/2021/2021-10-23-communication-writing.md)
 - 第 7 期：[年轻人，如何能成长更快](newsletter/2021/2021-10-15-Newsletter-interview.md)
 - 第 6 期：[提供有价值的事情](newsletter/2021/2021-10-10-provide-valuable-thing.md)
