@@ -7,7 +7,8 @@
 
 **十一月**
 
-- 第 10 期：[互联网公司如何沉淀自己的文档](nnewsletter/2021/2021-11-06-tech-docs.md)
+- 第 11 期：[番茄工作法能提高效率？](newsletter/2021/2021-11-13-pomodoro_technique.md)
+- 第 10 期：[互联网公司如何沉淀自己的文档](newsletter/2021/2021-11-06-tech-docs.md)
 
 
 **十月**
