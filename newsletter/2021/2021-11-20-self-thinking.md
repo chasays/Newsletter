@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "12 - 番茄工作法能提高效率？"
+title: "12 - 当前做的这些，真的有意义么？"
 subtitle: ''
 author: "叉叉敌"
 header-style: text
 tags:
-  - python
-  - 技术
+  - Newsletter
+  - 思考
 ---
 
 ![](https://gitee.com/chasays/mdPic/raw/master/uPic/4Yy0fJ.jpg)
