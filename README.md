@@ -5,9 +5,16 @@
 
 ## 2021
 
+**十二月**
+
+- 第 16 期：[根据 IP 地址找到对应的小区](newsletter/2021/2021-12-18-location-hisroty.md)
+- 第 15 期：[关于黑胶唱片的事儿](newsletter/2021/2021-12-11-vinyl-records.md)
+- 第 14 期：[做一个长期主义者](newsletter/2021/2021-12-04-reading-is-important.md)
+
+
 **十一月**
 
-- 第 13 期：[思考当下做的是否有意义](newsletter/2021/2021-11-27-overengineering.md)
+- 第 13 期：[过度工程](newsletter/2021/2021-11-27-overengineering.md)
 - 第 12 期：[思考当下做的是否有意义](newsletter/2021/2021-11-20-self-thinking.md)
 - 第 11 期：[番茄工作法能提高效率？](newsletter/2021/2021-11-13-pomodoro_technique.md)
 - 第 10 期：[互联网公司如何沉淀自己的文档](newsletter/2021/2021-11-06-tech-docs.md)
