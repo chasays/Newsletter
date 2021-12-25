@@ -7,7 +7,7 @@
 
 **十二月**
 
-- 第 16 期：[学习一门终身有益的知识](newsletter/2021/2021-12-25-x-xmas-invest-known.md)
+- 第 17 期：[学习一门终身有益的知识](newsletter/2021/2021-12-25-x-xmas-invest-known.md)
 - 第 16 期：[根据 IP 地址找到对应的小区](newsletter/2021/2021-12-18-location-hisroty.md)
 - 第 15 期：[关于黑胶唱片的事儿](newsletter/2021/2021-12-11-vinyl-records.md)
 - 第 14 期：[做一个长期主义者](newsletter/2021/2021-12-04-reading-is-important.md)
