@@ -1,6 +1,19 @@
 # Newsletter
 
 一份免费的每周时事通讯，内容与**科技**相关，包括不限于新闻、文章、发布、工具和库、事件等。
+## 2022
+
+**二月**
+- 第 18 期：[学习一门终身有益的知识](newsletter/2021/2021-12-25-x-xmas-invest-known.md)
+
+
+
+**一月**
+
+- 第 21 期：[学习一门终身有益的知识](newsletter/2021/2021-12-25-x-xmas-invest-known.md)
+- 第 20 期：[学习一门终身有益的知识](newsletter/2021/2021-12-25-x-xmas-invest-known.md)
+- 第 19git 期：[学习一门终身有益的知识](newsletter/2021/2021-12-25-x-xmas-invest-known.md)
+- 第 18 期：[巨头之间的合作](newsletter/2022/2022-01-01-co-operation.md)
 
 
 ## 2021
