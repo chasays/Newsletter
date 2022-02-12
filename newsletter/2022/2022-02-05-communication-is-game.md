@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "22 - 为什么沟通是一场无限游戏"
+title: "23 - 为什么沟通是一场无限游戏"
 subtitle: '时间过得真真快呀'
 author: "叉叉敌"
 header-style: text

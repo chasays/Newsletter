@@ -4,15 +4,17 @@
 ## 2022
 
 **二月**
-- 第 18 期：[学习一门终身有益的知识](newsletter/2021/2021-12-25-x-xmas-invest-known.md)
+
+- 第 23 期：[为什么沟通是一场无限游戏](newsletter/2022/2022-02-05-communication-is-game.md)
+- 第 22 期：[如何成为你想成为的人](newsletter/2022/2022-01-29-thinking-in-shower.md)
 
 
 
 **一月**
 
-- 第 21 期：[学习一门终身有益的知识](newsletter/2021/2021-12-25-x-xmas-invest-known.md)
-- 第 20 期：[学习一门终身有益的知识](newsletter/2021/2021-12-25-x-xmas-invest-known.md)
-- 第 19git 期：[学习一门终身有益的知识](newsletter/2021/2021-12-25-x-xmas-invest-known.md)
+- 第 21 期：[值得花时间去思考的 10 个问题](newsletter/2022/2022-01-22-question-worth-spending-the-time-reflect.md)
+- 第 20 期：[金句和鸡汤的差别](newsletter/2022/2022-01-15-golden-sentence.md)
+- 第 19 期：[为自己而活](newsletter/2022/2022-01-07-live-for-youself.md)
 - 第 18 期：[巨头之间的合作](newsletter/2022/2022-01-01-co-operation.md)
 
 
